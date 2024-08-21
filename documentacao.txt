@@ -1,0 +1,11 @@
+Bot de Cadastro de Usuários
+
+O bot irá extrair dados de um arquivp CSV e passará todos esses dados para um formulário de cadastro
+
+1- Extrair os dados do arquivo CSV
+
+2-  Acessar o formulário
+
+3- Preencher todo formulário de acordo com os dados extraídos do arquivo
+
+4- Enviar o formulário e repetir até que não aja mais usuários para cadastrar
